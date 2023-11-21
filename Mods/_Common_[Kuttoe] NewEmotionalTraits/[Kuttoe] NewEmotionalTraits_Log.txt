@@ -1,0 +1,18 @@
+New Emotional Traits by Kuttoe - Version 2.0c
+https://kuttoe.itch.io/new-emotional-traits
+11/21/2023 17:31:06
+Game Version: 1.102.190.1030
+
+More mods by Kuttoe: https://kuttoe.itch.io/
+Patreon: https://www.patreon.com/kuttoe
+Join us on Discord: https://discord.gg/RqPqCdBsdF
+
+All subfunctions imported sucessfully!
+
+Settings imported successfully!
+
+{
+    "test_value": 1
+}
+
+

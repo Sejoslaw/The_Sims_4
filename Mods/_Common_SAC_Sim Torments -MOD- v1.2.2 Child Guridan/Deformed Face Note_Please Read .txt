@@ -1,0 +1,3 @@
+The deformed face torment might rarely show up on some newly generated sims randomly, to fix that sim simply change or unequip their hat in CAS.
+If you don't desire to use the deformed face torment. you can delete the "Deformed Face HAT" from the CAS folder that comes with the mod.
+Thank you and enjoy ♥
