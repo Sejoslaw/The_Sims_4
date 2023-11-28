@@ -1,0 +1,1703 @@
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:50:36 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_joining.py", line 56, in _trigger_autonomy_joining_to_sex
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:50:36 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:50:45 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 59, in trigger_random_sex_autonomy_on_game_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 94, in _trigger_random_sex_autonomy
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:50:48 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_joining.py", line 56, in _trigger_autonomy_joining_to_sex
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:50:48 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:10 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_joining.py", line 56, in _trigger_autonomy_joining_to_sex
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:10 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:24 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_joining.py", line 56, in _trigger_autonomy_joining_to_sex
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:24 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:33 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_joining.py", line 56, in _trigger_autonomy_joining_to_sex
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:34 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:51:48 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:52:18 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:52:23 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 85, in _trigger_random_solo_sex_autonomy_on_game_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 113, in _trigger_random_solo_sex_autonomy
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 126, in _get_available_for_solo_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:52:50 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:53:15 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:53:19 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 22:53:50 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:02:13 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:02:42 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:04:00 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:04:42 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:05:17 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:06:01 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:06:25 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 186, in _turbolib_interaction_outcome_result
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 34, in execute_event_methods
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 50, in _execute_event_methods_gen
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_romance.py", line 52, in _wickedwhims_on_sex_autonomy_romance_interactions_outcome
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run internal method '_turbolib_interaction_outcome_result' at 'Interaction.store_result_for_outcome'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:06:30 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:06:44 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 186, in _turbolib_interaction_outcome_result
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 34, in execute_event_methods
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 50, in _execute_event_methods_gen
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_romance.py", line 57, in _wickedwhims_on_sex_autonomy_romance_interactions_outcome
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run internal method '_turbolib_interaction_outcome_result' at 'Interaction.store_result_for_outcome'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:07:01 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 186, in _turbolib_interaction_outcome_result
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 34, in execute_event_methods
+  File ".\WickedWhims_v176i\turbolib2\events\interactions.py", line 50, in _execute_event_methods_gen
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_romance.py", line 57, in _wickedwhims_on_sex_autonomy_romance_interactions_outcome
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run internal method '_turbolib_interaction_outcome_result' at 'Interaction.store_result_for_outcome'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:07:25 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:08:05 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:08:10 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 59, in trigger_random_sex_autonomy_on_game_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 94, in _trigger_random_sex_autonomy
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:26:31 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\utils\events_handler.py", line 72, in execute_event_methods
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_loading.py", line 157, in _wickedwhims_trigger_random_loading_sex_autonomy
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_loading.py", line 167, in _trigger_random_loading_sex_autonomy
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_loading.py", line 244, in _get_available_non_interacted_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_trigger_random_loading_sex_autonomy' method from 'WickedWhims' -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:26:31 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\utils\events_handler.py", line 72, in execute_event_methods
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 74, in _wickedwhims_reset_random_sex_autonomy_game_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 131, in _get_random_sex_interval_from_frequency
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_random.py", line 121, in _get_random_sex_frequency
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_reset_random_sex_autonomy_game_update' method from 'WickedWhims' -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:26:31 Traceback (most recent call last):
+  File ".\WickedWhims_v176i\turbolib2\events\utils\events_handler.py", line 72, in execute_event_methods
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 96, in _wickedwhims_reset_random_solo_sex_autonomy_game_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 184, in _get_random_solo_sex_interval_from_frequency
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 177, in _get_random_solo_sex_frequency
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\trigger_solo.py", line 126, in _get_available_for_solo_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_reset_random_solo_sex_autonomy_game_update' method from 'WickedWhims' -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:28:49 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:31:48 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:34:29 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:35:08 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:35:31 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:36:32 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:37:05 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/27/23 23:39:24 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 40, in _wickedwhims_update_game_trackers_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\main\game_handlers\tick_handler.py", line 138, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\features\cuckold\autonomy_solo_sex.py", line 66, in _sex_autonomy_trigger_cuckold_solo
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 182, in get_available_for_sex_sims
+  File ".\WickedWhims_v176i\wickedwhims\sex\autonomy\utils\sims.py", line 314, in _is_sim_fearing_possible_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\pregnancy\native_pregnancy_handler.py", line 54, in can_sim_get_pregnant
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_wickedwhims_update_game_trackers_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:12 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:22 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:28 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:37 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:48 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:06:53 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:08 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:19 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:33 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:38 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:42 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:47 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:07:52 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:12:59 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:13:54 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:14:02 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:20 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:25 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:29 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:41 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:44 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:46 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:50 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:52 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:56 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:15:59 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:16:06 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:16:08 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+
+Game Version: 1.102.190.1030, WickedWhims Version: v176i, BMD/MCCC, P:893 S:65 D:17
+11/28/23 00:16:11 Traceback (most recent call last):
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 128, in _on_zone_update_event
+  File "T:\InGame\Gameplay\Scripts\Server\sims\masked\v176i\zone_tick.py", line 76, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_handlers.py", line 94, in _update_sex_instances_on_zone_update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 210, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 90, in _update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\active_sex_instance_tick.py", line 384, in update
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 128, in try_initiate_pregnancy
+  File ".\WickedWhims_v176i\wickedwhims\sex\integral\sex_handlers\active_sex\helpers\pregnancy.py", line 172, in _try_impregnate_sim
+  File ".\WickedWhims_v176i\turbolib2\wrappers\household.py", line 229, in get_free_sims_slots
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in free_slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 618, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\sims\household.py", line 616, in slot_count
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_tracker.py", line 318, in <genexpr>
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_arc.py", line 488, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in reserved_household_slots
+  File "T:\InGame\Gameplay\Scripts\Server\story_progression\story_progression_chapter.py", line 382, in <genexpr>
+  File "J:\flauschtrud\Documents\USB Backup\Python Workspace\My Script Mods\NeighborhoodStoriesMarriage\Scripts\flauschtrud_neighborhoodstories_marriage.py", line 158, in reserved_household_slots
+TypeError: object of type 'NoneType' has no len()
+TurboLib: [TurboLib] Failed to run '_update_sex_instances_on_zone_update' method from 'WickedWhims'. -> TypeError: object of type 'NoneType' has no len()
+Please note, this exception didn't occur in the mod. The mod is unlikely to be the source of the error.
+

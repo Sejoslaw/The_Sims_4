@@ -1,14 +1,13 @@
 {
     "__class__": "SelectionGroupService",
     "__module__": "control_any_sim.services.selection_group",
-    "household_id": 514555898281000979,
+    "household_id": 1023462695952711692,
     "household_npcs": [],
     "selectable_sims": [
-        514555898281000980,
-        514555898341952640,
-        514555898341952642,
-        365937116172976419,
-        365937116185297342
+        1023462695982808362,
+        1023462695982883573,
+        1023462695952711693,
+        1023462696084744885
     ],
     "zone_is_setup": true
 }

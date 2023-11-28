@@ -1,4 +1,12 @@
 {
+    "1092288518": {
+        "Beer_Crafting_Enabled": true,
+        "Drug_Dealer_Fixup_Applied": false,
+        "Dust_Accumulation": "Normal",
+        "Eco_Footprint": "Normal",
+        "Newspaper_Edition": "161",
+        "Startup_Notification_Shown": true
+    },
     "1491927045": {
         "Beer_Crafting_Enabled": true,
         "Drug_Dealer_Fixup_Applied": false,
@@ -8,6 +16,14 @@
         "Startup_Notification_Shown": true
     },
     "1566572549": {
+        "Beer_Crafting_Enabled": true,
+        "Drug_Dealer_Fixup_Applied": false,
+        "Dust_Accumulation": "Normal",
+        "Eco_Footprint": "Normal",
+        "Newspaper_Edition": "161",
+        "Startup_Notification_Shown": true
+    },
+    "164364297": {
         "Beer_Crafting_Enabled": true,
         "Drug_Dealer_Fixup_Applied": false,
         "Dust_Accumulation": "Normal",
@@ -39,7 +55,31 @@
         "Newspaper_Edition": "161",
         "Startup_Notification_Shown": true
     },
+    "2700345354": {
+        "Beer_Crafting_Enabled": true,
+        "Drug_Dealer_Fixup_Applied": false,
+        "Dust_Accumulation": "Normal",
+        "Eco_Footprint": "Normal",
+        "Newspaper_Edition": "161",
+        "Startup_Notification_Shown": true
+    },
+    "3461611535": {
+        "Beer_Crafting_Enabled": true,
+        "Drug_Dealer_Fixup_Applied": false,
+        "Dust_Accumulation": "Normal",
+        "Eco_Footprint": "Normal",
+        "Newspaper_Edition": "161",
+        "Startup_Notification_Shown": true
+    },
     "4263247885": {
+        "Beer_Crafting_Enabled": true,
+        "Drug_Dealer_Fixup_Applied": false,
+        "Dust_Accumulation": "Normal",
+        "Eco_Footprint": "Normal",
+        "Newspaper_Edition": "161",
+        "Startup_Notification_Shown": true
+    },
+    "936640524": {
         "Beer_Crafting_Enabled": true,
         "Drug_Dealer_Fixup_Applied": false,
         "Dust_Accumulation": "Normal",
