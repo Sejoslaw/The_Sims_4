@@ -170,3 +170,5 @@ Screenshots/
 Tray/
 *.html
 localthumbcache.package
+lastException*
+lastUIException*
