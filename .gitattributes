@@ -5,3 +5,4 @@ Mods/_Common_Wicked_Whims_Addons/WW_E404P_Animations/WW_E404P_Animations.package
 Mods/_Common_Wicked_Whims_Addons/WW/WW_SALARMOJS_ANIMATIONS.package filter=lfs diff=lfs merge=lfs -text
 Mods/_Common_Wicked_Whims_Addons/WW/WW_Anarcis.package filter=lfs diff=lfs merge=lfs -text
 Mods/__Core__WickedWhims[[:space:]]v176i[[:space:]]-[[:space:]]5[[:space:]]September[[:space:]]2023[[:space:]](248224)/TURBODRIVER_WickedWhims_Tuning.package filter=lfs diff=lfs merge=lfs -text
+Mods/__Core__WickedWhims[[:space:]]v181c[[:space:]]-[[:space:]]14[[:space:]]August[[:space:]]2024[[:space:]](2271411)/TURBODRIVER_WickedWhims_Tuning.package filter=lfs diff=lfs merge=lfs -text
